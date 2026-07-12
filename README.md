@@ -1,3 +1,3 @@
-## Raw data of systematic reviews of Modeling and Verification for ML-based systems:
+## Raw data of a systematic review of Modeling and Verification for ML-based systems:
 1. Систематический обзор методов верификации интеллектуальных систем: моделирование устойчивости и виды сбоев
 2. Систематический обзор методов верификации интеллектуальных систем: анализ и применения
